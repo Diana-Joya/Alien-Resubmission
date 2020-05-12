@@ -1,1 +1,5 @@
-Alien Invaders - Diana Joya - 3/27/19
+# Alien Invaders
+
+## Overview:
+This project is my Python version of the popular Alien Invaders game. 
+
